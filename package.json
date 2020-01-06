@@ -25,6 +25,7 @@
     "dependencies": {
         "laravel-layui": "^2.1.5",
         "layui": "0.0.1",
-        "layui-src": "^2.5.5"
+        "layui-src": "^2.5.5",
+        "@fortawesome/fontawesome-free": "^5.6.3"
     }
 }
